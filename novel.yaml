@@ -47,5 +47,7 @@ special_rules:
 
 # 上传
 backup:
-  method: bypy
-  remote_path: novels/重返高三/chapters/
+  method: github
+  repo: zhen3410/congsan
+  private: true
+  remote_path: chapters/
