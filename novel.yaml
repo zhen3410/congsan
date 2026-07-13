@@ -1,0 +1,51 @@
+# 《重返高三》项目配置
+novel_name: 重返高三
+platform: fanqie
+genre: rebirth
+
+# 章节参数
+target_chapter_size: 2200
+chapter_min: 2000
+chapter_max: 2700
+
+# 质量门禁
+hit_points_min: 2
+dialogue_ratio: 0.4
+hook_style: reveal
+
+# 角色名（用于 AI 指纹检测——排除角色名的句首匹配）
+characters:
+  protagonist: 陈默
+  female_lead: 林若溪
+  major:
+    - 王浩
+    - 赵世杰
+    - 刘子豪
+    - 苏老师
+    - 李阳
+    - 老周
+
+# 金手指
+golden_finger: 未来记忆（2010-2026完整记忆，含房产趋势/股市节点/高考真题）
+
+# 写作风格
+style_notes: >
+  白描对话为主，简洁有力。主角话少、眼神静。
+  时代感通过细节传递（诺基亚N8、QQ空间、人人网）。
+  每章至少2个爽点，结尾必留钩子。
+
+# 禁用词（可覆盖全局默认）
+banned_phrases_extra:
+  - 心道
+  - 淡淡道
+
+# 特殊规则
+special_rules:
+  - 主角36岁灵魂18岁身体，心理描写要沉稳克制
+  - 2010年时代感：手机/网络/流行语必须准确
+  - 蝴蝶效应：主角改变越多，未来记忆越不可靠（作为伏笔推进）
+
+# 上传
+backup:
+  method: bypy
+  remote_path: novels/重返高三/chapters/
