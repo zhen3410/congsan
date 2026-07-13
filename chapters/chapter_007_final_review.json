@@ -1,0 +1,24 @@
+{
+  "file": "/root/novels/重返高三/chapters/chapter_007_final.md",
+  "platform": "fanqie",
+  "char_count": 2688,
+  "dialogue_ratio": 28.6,
+  "word_count_ok": true,
+  "word_count_min": 2200,
+  "word_count_max": 2700,
+  "dialogue_ok": false,
+  "hit_points": {
+    "shock": 1,
+    "progress": 5,
+    "showoff": 2,
+    "conflict": 1
+  },
+  "hit_points_ok": true,
+  "has_cliffhanger": true,
+  "hook_type": "declaration",
+  "ai_voice_flags": [],
+  "ai_voice_clean": true,
+  "score": 4,
+  "max_score": 5,
+  "verdict": "REVISE"
+}
