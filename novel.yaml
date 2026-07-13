@@ -1,5 +1,5 @@
-# 《重返高三》项目配置
-novel_name: 重返高三
+# 《重生之高三逆袭》项目配置
+novel_name: 重生之高三逆袭
 platform: fanqie
 genre: rebirth
 
@@ -15,7 +15,7 @@ hook_style: reveal
 
 # 角色名（用于 AI 指纹检测——排除角色名的句首匹配）
 characters:
-  protagonist: 陈默
+  protagonist: 顾屿
   female_lead: 林若溪
   major:
     - 王浩
