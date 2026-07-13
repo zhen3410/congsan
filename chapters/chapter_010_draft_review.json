@@ -1,24 +1,24 @@
 {
   "file": "/root/novels/重返高三/chapters/chapter_010_draft.md",
   "platform": "fanqie",
-  "char_count": 2700,
+  "char_count": 2698,
   "dialogue_ratio": 44.7,
   "word_count_ok": true,
   "word_count_min": 2200,
   "word_count_max": 2700,
   "dialogue_ok": true,
   "hit_points": {
-    "shock": 0,
-    "progress": 0,
+    "shock": 1,
+    "progress": 1,
     "showoff": 0,
     "conflict": 0
   },
-  "hit_points_ok": false,
+  "hit_points_ok": true,
   "has_cliffhanger": true,
   "hook_type": "declaration",
   "ai_voice_flags": [],
   "ai_voice_clean": true,
-  "score": 4,
+  "score": 5,
   "max_score": 5,
-  "verdict": "REVISE"
+  "verdict": "PASS"
 }
