@@ -1,0 +1,31 @@
+{
+  "file": "/root/novels/重返高三/chapters/chapter_084_draft.md",
+  "platform": "fanqie",
+  "char_count": 2723,
+  "dialogue_ratio": 100.6,
+  "word_count_ok": false,
+  "word_count_min": 2200,
+  "word_count_max": 2700,
+  "dialogue_ok": true,
+  "hit_points": {
+    "shock": 0,
+    "progress": 0,
+    "showoff": 6,
+    "conflict": 2
+  },
+  "hit_points_ok": true,
+  "has_cliffhanger": true,
+  "hook_type": "declaration",
+  "ai_voice_flags": [
+    "句首重复: \"——是—\" (10次)",
+    "句首重复: \"——」顾\" (8次)",
+    "句首重复: \"——决定\" (5次)",
+    "句首重复: \"——不是\" (4次)",
+    "句首重复: \"——知道\" (4次)",
+    "「不是X——是Y」×43 次 (建议≤12)"
+  ],
+  "ai_voice_clean": false,
+  "score": 3,
+  "max_score": 5,
+  "verdict": "REVISE"
+}
