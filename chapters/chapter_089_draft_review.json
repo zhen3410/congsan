@@ -1,0 +1,31 @@
+{
+  "file": "chapters/chapter_089_draft.md",
+  "platform": "fanqie",
+  "char_count": 2706,
+  "dialogue_ratio": 135.4,
+  "word_count_ok": false,
+  "word_count_min": 2200,
+  "word_count_max": 2700,
+  "dialogue_ok": true,
+  "hit_points": {
+    "shock": 0,
+    "progress": 2,
+    "showoff": 0,
+    "conflict": 0
+  },
+  "hit_points_ok": false,
+  "has_cliffhanger": true,
+  "hook_type": "continuation",
+  "ai_voice_flags": [
+    "句首重复: \"——」顾\" (9次)",
+    "句首重复: \"——不知\" (7次)",
+    "句首重复: \"——不是\" (5次)",
+    "句首重复: \"——王浩\" (4次)",
+    "句首重复: \"——赵世\" (4次)",
+    "「不是X——是Y」×42 次 (建议≤12)"
+  ],
+  "ai_voice_clean": false,
+  "score": 2,
+  "max_score": 5,
+  "verdict": "REWRITE"
+}
