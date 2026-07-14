@@ -1,0 +1,31 @@
+{
+  "file": "chapters/chapter_096_draft.md",
+  "platform": "fanqie",
+  "char_count": 2687,
+  "dialogue_ratio": 85.3,
+  "word_count_ok": true,
+  "word_count_min": 2200,
+  "word_count_max": 2700,
+  "dialogue_ok": true,
+  "hit_points": {
+    "shock": 0,
+    "progress": 0,
+    "showoff": 0,
+    "conflict": 0
+  },
+  "hit_points_ok": false,
+  "has_cliffhanger": true,
+  "hook_type": "declaration",
+  "ai_voice_flags": [
+    "句首重复: \"赵建斌—\" (8次)",
+    "句首重复: \"——」顾\" (7次)",
+    "句首重复: \"——你—\" (6次)",
+    "句首重复: \"——我—\" (6次)",
+    "句首重复: \"——怕—\" (5次)",
+    "「不是X——是Y」×28 次 (建议≤12)"
+  ],
+  "ai_voice_clean": false,
+  "score": 3,
+  "max_score": 5,
+  "verdict": "REVISE"
+}
