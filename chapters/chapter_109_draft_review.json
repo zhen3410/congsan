@@ -1,0 +1,30 @@
+{
+  "file": "/root/novels/重返高三/chapters/chapter_109_draft.md",
+  "platform": "fanqie",
+  "char_count": 2488,
+  "dialogue_ratio": 59.2,
+  "word_count_ok": true,
+  "word_count_min": 2200,
+  "word_count_max": 2700,
+  "dialogue_ok": true,
+  "hit_points": {
+    "shock": 0,
+    "progress": 0,
+    "showoff": 0,
+    "conflict": 0
+  },
+  "hit_points_ok": false,
+  "has_cliffhanger": true,
+  "hook_type": "declaration",
+  "ai_voice_flags": [
+    "句首重复: \"——」—\" (81次)",
+    "句首重复: \"——好—\" (5次)",
+    "句首重复: \"——有—\" (5次)",
+    "句首重复: \"——在—\" (5次)",
+    "句首重复: \"——然后\" (5次)"
+  ],
+  "ai_voice_clean": false,
+  "score": 3,
+  "max_score": 5,
+  "verdict": "REVISE"
+}
