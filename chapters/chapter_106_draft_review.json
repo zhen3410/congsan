@@ -1,0 +1,30 @@
+{
+  "file": "/root/novels/重返高三/chapters/chapter_106_draft.md",
+  "platform": "fanqie",
+  "char_count": 2340,
+  "dialogue_ratio": 66.9,
+  "word_count_ok": true,
+  "word_count_min": 2200,
+  "word_count_max": 2700,
+  "dialogue_ok": true,
+  "hit_points": {
+    "shock": 0,
+    "progress": 0,
+    "showoff": 3,
+    "conflict": 0
+  },
+  "hit_points_ok": false,
+  "has_cliffhanger": true,
+  "hook_type": "continuation",
+  "ai_voice_flags": [
+    "句首重复: \"——」—\" (100次)",
+    "句首重复: \"——不是\" (9次)",
+    "句首重复: \"——三个\" (9次)",
+    "句首重复: \"——顾屿\" (6次)",
+    "句首重复: \"——「你\" (6次)"
+  ],
+  "ai_voice_clean": false,
+  "score": 3,
+  "max_score": 5,
+  "verdict": "REVISE"
+}
