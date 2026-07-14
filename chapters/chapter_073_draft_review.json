@@ -1,0 +1,28 @@
+{
+  "file": "/root/novels/重返高三/chapters/chapter_073_draft.md",
+  "platform": "fanqie",
+  "char_count": 2208,
+  "dialogue_ratio": 117.1,
+  "word_count_ok": true,
+  "word_count_min": 2200,
+  "word_count_max": 2700,
+  "dialogue_ok": true,
+  "hit_points": {
+    "shock": 1,
+    "progress": 1,
+    "showoff": 2,
+    "conflict": 0
+  },
+  "hit_points_ok": true,
+  "has_cliffhanger": true,
+  "hook_type": "continuation",
+  "ai_voice_flags": [
+    "句首重复: \"——秦北\" (4次)",
+    "句首重复: \"——苏老\" (4次)",
+    "句首重复: \"——周明\" (4次)"
+  ],
+  "ai_voice_clean": false,
+  "score": 4,
+  "max_score": 5,
+  "verdict": "REVISE"
+}
