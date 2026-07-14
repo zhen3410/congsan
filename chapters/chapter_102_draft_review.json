@@ -1,0 +1,30 @@
+{
+  "file": "chapters/chapter_102_draft.md",
+  "platform": "fanqie",
+  "char_count": 2547,
+  "dialogue_ratio": 25.1,
+  "word_count_ok": true,
+  "word_count_min": 2200,
+  "word_count_max": 2700,
+  "dialogue_ok": false,
+  "hit_points": {
+    "shock": 0,
+    "progress": 0,
+    "showoff": 0,
+    "conflict": 0
+  },
+  "hit_points_ok": false,
+  "has_cliffhanger": true,
+  "hook_type": "declaration",
+  "ai_voice_flags": [
+    "句首重复: \"——」—\" (30次)",
+    "句首重复: \"——不说\" (6次)",
+    "句首重复: \"——周明\" (5次)",
+    "句首重复: \"——是—\" (5次)",
+    "句首重复: \"——第一\" (5次)"
+  ],
+  "ai_voice_clean": false,
+  "score": 2,
+  "max_score": 5,
+  "verdict": "REWRITE"
+}
