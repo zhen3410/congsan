@@ -1,0 +1,28 @@
+{
+  "file": "/root/novels/重返高三/chapters/chapter_039_draft.md",
+  "platform": "fanqie",
+  "char_count": 2593,
+  "dialogue_ratio": 76.0,
+  "word_count_ok": true,
+  "word_count_min": 2200,
+  "word_count_max": 2700,
+  "dialogue_ok": true,
+  "hit_points": {
+    "shock": 2,
+    "progress": 1,
+    "showoff": 1,
+    "conflict": 1
+  },
+  "hit_points_ok": true,
+  "has_cliffhanger": true,
+  "hook_type": "declaration",
+  "ai_voice_flags": [
+    "句首重复: \"顾屿——\" (7次)",
+    "句首重复: \"——你—\" (4次)",
+    "句首重复: \"这辈子—\" (4次)"
+  ],
+  "ai_voice_clean": false,
+  "score": 4,
+  "max_score": 5,
+  "verdict": "REVISE"
+}

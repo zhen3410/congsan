@@ -1,0 +1,28 @@
+{
+  "file": "/root/novels/重返高三/chapters/chapter_043_draft.md",
+  "platform": "fanqie",
+  "char_count": 2368,
+  "dialogue_ratio": 139.6,
+  "word_count_ok": true,
+  "word_count_min": 2200,
+  "word_count_max": 2700,
+  "dialogue_ok": true,
+  "hit_points": {
+    "shock": 0,
+    "progress": 0,
+    "showoff": 1,
+    "conflict": 0
+  },
+  "hit_points_ok": false,
+  "has_cliffhanger": true,
+  "hook_type": "declaration",
+  "ai_voice_flags": [
+    "句首重复: \"他妈——\" (5次)",
+    "句首重复: \"——\"顾\" (5次)",
+    "「不是X——是Y」×13 次 (建议≤12)"
+  ],
+  "ai_voice_clean": false,
+  "score": 3,
+  "max_score": 5,
+  "verdict": "REVISE"
+}
