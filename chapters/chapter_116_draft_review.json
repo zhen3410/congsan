@@ -1,0 +1,24 @@
+{
+  "file": "/root/novels/重返高三/chapters/chapter_116_draft.md",
+  "platform": "fanqie",
+  "char_count": 2695,
+  "dialogue_ratio": 64.5,
+  "word_count_ok": true,
+  "word_count_min": 2200,
+  "word_count_max": 2700,
+  "dialogue_ok": true,
+  "hit_points": {
+    "shock": 0,
+    "progress": 1,
+    "showoff": 1,
+    "conflict": 0
+  },
+  "hit_points_ok": true,
+  "has_cliffhanger": true,
+  "hook_type": "question",
+  "ai_voice_flags": [],
+  "ai_voice_clean": true,
+  "score": 5,
+  "max_score": 5,
+  "verdict": "PASS"
+}
