@@ -1,0 +1,24 @@
+{
+  "file": "chapters/chapter_120_draft.md",
+  "platform": "fanqie",
+  "char_count": 2696,
+  "dialogue_ratio": 56.3,
+  "word_count_ok": true,
+  "word_count_min": 2200,
+  "word_count_max": 2700,
+  "dialogue_ok": true,
+  "hit_points": {
+    "shock": 0,
+    "progress": 1,
+    "showoff": 2,
+    "conflict": 0
+  },
+  "hit_points_ok": true,
+  "has_cliffhanger": true,
+  "hook_type": "declaration",
+  "ai_voice_flags": [],
+  "ai_voice_clean": true,
+  "score": 5,
+  "max_score": 5,
+  "verdict": "PASS"
+}
