@@ -1,0 +1,26 @@
+{
+  "file": "/root/novels/重返高三/chapters/chapter_200_draft.md",
+  "platform": "fanqie",
+  "char_count": 2718,
+  "dialogue_ratio": 34.3,
+  "word_count_ok": false,
+  "word_count_min": 2200,
+  "word_count_max": 2700,
+  "dialogue_ok": false,
+  "hit_points": {
+    "shock": 0,
+    "progress": 0,
+    "showoff": 1,
+    "conflict": 0
+  },
+  "hit_points_ok": false,
+  "has_cliffhanger": false,
+  "hook_type": "none",
+  "ai_voice_flags": [
+    "「不是X——是Y」×37 次 (建议≤12)"
+  ],
+  "ai_voice_clean": false,
+  "score": 0,
+  "max_score": 5,
+  "verdict": "REWRITE"
+}
