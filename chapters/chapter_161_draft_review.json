@@ -1,0 +1,24 @@
+{
+  "file": "chapter_161_draft.md",
+  "platform": "fanqie",
+  "char_count": 2257,
+  "dialogue_ratio": 56.6,
+  "word_count_ok": true,
+  "word_count_min": 2200,
+  "word_count_max": 2700,
+  "dialogue_ok": true,
+  "hit_points": {
+    "shock": 0,
+    "progress": 0,
+    "showoff": 4,
+    "conflict": 0
+  },
+  "hit_points_ok": false,
+  "has_cliffhanger": true,
+  "hook_type": "declaration",
+  "ai_voice_flags": [],
+  "ai_voice_clean": true,
+  "score": 4,
+  "max_score": 5,
+  "verdict": "REVISE"
+}
