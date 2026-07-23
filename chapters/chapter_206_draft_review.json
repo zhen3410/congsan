@@ -1,0 +1,26 @@
+{
+  "file": "chapters/chapter_206_draft.md",
+  "platform": "fanqie",
+  "char_count": 2253,
+  "dialogue_ratio": 62.7,
+  "word_count_ok": true,
+  "word_count_min": 2200,
+  "word_count_max": 2700,
+  "dialogue_ok": true,
+  "hit_points": {
+    "shock": 0,
+    "progress": 0,
+    "showoff": 0,
+    "conflict": 1
+  },
+  "hit_points_ok": false,
+  "has_cliffhanger": true,
+  "hook_type": "declaration",
+  "ai_voice_flags": [
+    "「不是X——是Y」×13 次 (建议≤12)"
+  ],
+  "ai_voice_clean": false,
+  "score": 3,
+  "max_score": 5,
+  "verdict": "REVISE"
+}
